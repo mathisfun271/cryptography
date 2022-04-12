@@ -6,6 +6,5 @@
 #include "encode.h"
 
 void main(void){
-  char txt[] = "Hello World";
-  encodeTxt(txt);
+  puts("Hello World");
 }
